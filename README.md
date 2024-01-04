@@ -1,1 +1,1 @@
-# Phermacetucal-Store-Sales-Prediction
+# Pharmacetucal-Store-Sales-Prediction
